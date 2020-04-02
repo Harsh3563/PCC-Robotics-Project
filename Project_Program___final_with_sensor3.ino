@@ -2,7 +2,7 @@
 /////Program for stage-2 of Robot Project
 /////By PCC group
 /////Authors: Harsh Doddannavar, Owais Mustafa, Siddharth Sharma
-/////Program for making robot speak when object within range of 100 cm
+/////Program for making a part-humanoid robot speak when object (a human) is within range of 100 cm
 /////Input provided by HC-SR04 distance sensor
 */
 #include <FatReader.h>
